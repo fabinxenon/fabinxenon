@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Xenon Cheat</h1>
+<h3 align="center">ㅤ👉ㅤThe Best Fivem Internal Cheat With The Lower Pricesㅤ👈ㅤ</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1165737783902617682/1168656494712074371/download.png?ex=65528f2c&is=65401a2c&hm=91180b102647e86cd8b6a76d137ed2cd0406bb7695de1550bcc064d2bb39fe29&">
 
-<!--
-**fabinxenon/fabinxenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="left">Connect with us</h1>
+<p align="left">
+<a href="https://discord.gg/xenonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m_aditya_jaiswal" height="40" width="50" /></a>
+<a href="https://www.youtube.com/@xenoncheats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="40" width="50" /></a>
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="left">Languages that we use</h1>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+<h1 align="left">Unique Viewers Counter</h1>
+
+![counter](https://moe-counter.glitch.me/get/@fabinxenon?theme=asoul)
+
+<h1 align="center">Common Issues</h1>
+
+<h3 align="center">Here down below you can find all answear to all issues for our software</h3>
+<h4 align="center">all the command have to be paste into the powershell</h4>
+
+1) Bluescreen After Injection *paste it into the powershell*:
+   ```
+   sfc /scannow - exit
+   ```
+2) Installing all the drivers *paste it into the powershell*:
+   ```sh
+   Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://vcredist.com/install.ps1'))
+   ```
