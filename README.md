@@ -6,6 +6,7 @@
 <h1 align="left">Connect with us</h1>
 <p align="left">
 <a href="https://discord.gg/xenonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m_aditya_jaiswal" height="40" width="50" /></a>
+<a href="https://www.tiktok.com/@xenoncheats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="m_aditya_jaiswal" height="40" width="50" /></a>
 <a href="https://www.youtube.com/@xenoncheats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="40" width="50" /></a>
   
 </p>
